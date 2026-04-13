@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant census for the Huntsville (Metro), Alabama metro, covering Huntsville. Covers a mid-size metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Huntsville (Metro), Alabama, US",
+  "export_job_id": "bf19120a-f349-47ea-a479-6fef17d18f48",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 761064,
+  "location_name": "Huntsville, AL",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-huntsville-metro-alabama-us-sample-761064",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/761064/beamstation_761064_restaurants-us-huntsvilleal_SAMPLE_DIST.csv",
+  "sample_pct": 2.75,
+  "sample_records": 25,
+  "sample_sha256": "c139c9cc4da98bd5c7d94ede520167da432a6bcf78ead8e7be7415852e8a16a4",
+  "sample_size_bytes": 118098,
+  "total_records": 910,
+  "updated_at": "2026-03-31T14:07:17.954652+00:00"
+}
