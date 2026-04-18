@@ -1,6 +1,6 @@
 # All Restaurants in Huntsville (Metro), Alabama, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 113 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `761064` |
 | Location | Huntsville, AL |
 | Category | Restaurants |
-| Full dataset size | 910 records |
-| Free sample size | 25 records (2.75%) |
-| Last export | 2026-03-31T14:07:17.954652+00:00 |
+| Full dataset size | 1,133 records |
+| Free sample size | 113 records (9.97%) |
+| Last export | 2026-04-14T14:37:53.457110+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-huntsville-metro-alabama-us-sample-761064/releases/download/sample-latest/beamstation_761064_restaurants-us-huntsvilleal_SAMPLE_DIST.csv) |
 
 ## What is in this sample
