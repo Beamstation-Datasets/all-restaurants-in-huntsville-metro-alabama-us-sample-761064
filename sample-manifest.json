@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0f74bb5b-d2c5-458c-8682-05135a91923d",
+  "export_job_id": "99945d66-7f05-4cef-9e2c-6042173a4944",
   "id_short": 761064,
-  "published_at": "2026-04-18T07:03:44Z",
+  "published_at": "2026-04-21T19:48:00Z",
   "repo_name": "all-restaurants-in-huntsville-metro-alabama-us-sample-761064",
   "sample_asset_name": "beamstation_761064_restaurants-us-huntsvilleal_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/761064/beamstation_761064_restaurants-us-huntsvilleal_SAMPLE_DIST.csv",
-  "sample_records": 113,
-  "sample_sha256": "6a5de1a81c0f336e6fa6f90915335b8252941646d868bd63160f8a0f8cbb3c2c",
-  "sample_size_bytes": 420626,
-  "total_records": 1133
+  "sample_records": 98,
+  "sample_sha256": "a51d9874a5db3fb54eee95149bf811ca3c1d4ef7c90f5cc97e6ec94caf136cca",
+  "sample_size_bytes": 349587,
+  "total_records": 984
 }
